@@ -1,0 +1,9 @@
+
+@tailwind utilities;
+@import "tailwindcss";
+
+/* src/App.css or src/index.css */
+body {
+  font-family: 'Inter', serif;
+}
+
