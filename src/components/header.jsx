@@ -4,7 +4,7 @@ import logo from '../assets/logo.svg'
 function Header() {
     return (
         <>
-            <header className="p-8 bg-neutral-50 shadow-xl">
+            <header className="p-8 bg-neutral-50 shadow-lg">
                 <div className="absolute top-6 left-5">
                    <img src={logo} alt="Magic Chef Logo" className="w-14 sm:w-14 md:w-16 lg:w-20" />
                 </div>
